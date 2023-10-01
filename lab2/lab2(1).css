@@ -1,0 +1,44 @@
+body {
+    background-color: dimgray;
+}
+.text1 {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.text2 {
+    text-align: center;
+    color: darkgray;
+    font-family: sans-serif;
+}
+h3 {
+    background-color: white;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 20%;
+    border-radius: 10px; 
+    margin-left: 230px;
+    margin-right: -190px;
+    padding: 20px;
+    text-align: center;
+}
+.image {
+    width: 45%;
+    margin-bottom: 2px;
+}
+.image+br+span {
+    font-family: sans-serif;
+    color: darkgray;
+    font-size: 15px;
+}
+footer{
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'online', sans-serif;
+    background-color: darkgray;
+    padding: 2.3%;
+    margin-left: -15px;
+    margin-right: -8px;
+} 
