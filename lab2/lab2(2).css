@@ -1,0 +1,63 @@
+body {
+    background-image: url("IMG_8971.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text1 {
+    text-align: center;
+    color: orange;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+#rectangle {
+    width: 55px;
+    height: 4px;
+    background-color: orange;
+    margin: auto;
+}
+.text2 {
+    text-align: center;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+.item {
+    background-color: white;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 20%;
+    border-radius: 1px; 
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 240px;
+    margin-right: -20%;
+    padding: 20px;
+    text-align: center;
+}
+.image {
+    width: 35%;
+    margin-bottom: 2px;
+}
+.image+br+span {
+    font-family: sans-serif;
+    color: rgb(80, 79, 79);
+    font-size: 15px;
+}
+.text3 {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+span {
+    text-decoration: underline;
+}
+footer {
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    background-color: orange;
+    padding: 1.5%;
+    margin-left: -15px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+}
